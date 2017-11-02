@@ -12,7 +12,13 @@ were having at Google which lead them to create Go.
 The book "[The Go Programming Language](http://www.gopl.io/)" by _Alan
 Donovan_ and _Brian Kernighan_ is a must read. It is assumes you already
 know how to program so it is very concise while still being very
-readable. Overall, one of the best programming books I have read.
+readable.
+Make sure you read both
+Chapter 8 "Goroutines and Channels" and
+Chapter 9 "Concurrency with Shared Variables"
+carefully.
+Overall, one of the best programming books I have read.
+
 
 ## Naming
 
